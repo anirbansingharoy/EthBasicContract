@@ -162,7 +162,11 @@ You should see something like this
 
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.44.09.png)
 
+Then 
+
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.45.21.png)
+
+Then 
 
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.46.54.png)
 
@@ -170,15 +174,23 @@ You should see something like this
 
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.47.32.png)
 
+Then 
+
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.48.09.png)
 
+Then 
+
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.50.02.png)
+
+Then 
 
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.50.37.png)
 
 **Step 3** Try Deploying the Contract to Ropsten Network 
 
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2023.13.37.png)
+
+You will get transaction confirmed after the transaction in mined 
 
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2023.12.51.png)
 
