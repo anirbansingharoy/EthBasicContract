@@ -156,6 +156,33 @@ You should see something like this
 ![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-12%20at%2018.36.54.png)
 
 
+## Deploying To Public Ropsten Test Network 
+
+**Step 1** First Create an Account for Ropsten Test Network 
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.44.09.png)
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.45.21.png)
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.46.54.png)
+
+**Step 2** Deposit some Ether's from Test Faucet
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.47.32.png)
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.48.09.png)
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.50.02.png)
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2022.50.37.png)
+
+**Step 3** Try Deploying the Contract to Ropsten Network 
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2023.13.37.png)
+
+![Alt text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-15%20at%2023.12.51.png)
+
+
 
   
 
