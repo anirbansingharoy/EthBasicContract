@@ -2,9 +2,8 @@ This is basic smart contract interaction client developed in React.
 
 ## Environment Requirements
 
-  - Npm 
   - Node
-  - Yarn
+  - Yarn/Npm 
   
 ## Clone the repository 
 
@@ -40,7 +39,7 @@ MetaMask is the easiest way to interact with dapps in a browser. It is an extens
 
 Installation guidelines can be found [here](https://metamask.io/). 
 
-After installation you will need configure , the test accounts in the wallet . 
+After installation you will need create an wallet and configure the test accounts in the wallet . 
 
 **Step 1**: First switch to the network running on local on port 8545 from the Networks Dropdown. 
 ![Alt Text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-12%20at%2012.24.47.png)
@@ -110,13 +109,13 @@ Alternatively you can navigate to the second tab `SOLIDITY COMPILER` on the left
 
 Copy the ABI code of the contract by clicking on `ABI` option at the bottom of the panel. It will be copied in the clipboard. 
 
-Create New file Called "SimpleStorage.json" at the path "ethbasiccontract/src/Contracts" and paste the copied ABI content inside 
+Create New file Called "SimpleStorage.json" in your local repository at the path "ethbasiccontract/src/Contracts" and paste the copied ABI content inside 
 
 ![Alt Text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-12%20at%2012.46.27.png)
 
 **6** Copy Bytecode of the contract by clicking `Bytecode` option at the bottom of the panel. It will be copied in the clipboard.
 
-Create New file Called "SimpleStorageByteCode.json" at the path "ethbasiccontract/src/Contracts" in the repository and paste the copied bytecode inside it
+Create New file Called "SimpleStorageByteCode.json" in your local repository  at the path "ethbasiccontract/src/Contracts" in the repository and paste the copied bytecode inside it
 
 ![Alt Text](https://github.com/bring/ethbasiccontract/blob/master/images/Screenshot%202019-12-12%20at%2018.28.55.png)
 
