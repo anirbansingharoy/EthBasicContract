@@ -76,7 +76,7 @@ function App() {
             .then(tx => {
                 setDeployedContractAddressList([tx.contractAddress].concat(deployedContractAddressList))
                 setSuccessfulCreationOfContractMsg("Contract has been successfully created. Contract Address: "+tx.contractAddress)
-
+                setSelectedContractAddress(setSelectedContractAddress)
             })
     }
 
